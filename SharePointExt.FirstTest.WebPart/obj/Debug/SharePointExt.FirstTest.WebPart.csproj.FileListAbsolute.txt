@@ -1,0 +1,4 @@
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt.FirstTest.WebPart\bin\Debug\SharePointExt.FirstTest.WebPart.dll
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt.FirstTest.WebPart\bin\Debug\SharePointExt.FirstTest.WebPart.pdb
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt.FirstTest.WebPart\obj\Debug\SharePointExt.FirstTest.WebPart.dll
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt.FirstTest.WebPart\obj\Debug\SharePointExt.FirstTest.WebPart.pdb

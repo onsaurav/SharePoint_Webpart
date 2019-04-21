@@ -1,0 +1,4 @@
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt\bin\SharePointExt.dll
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt\bin\SharePointExt.pdb
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt\obj\Debug\SharePointExt.dll
+D:\My Soft\WorkingSpace\Web\SharePointExt\SharePointExt\obj\Debug\SharePointExt.pdb

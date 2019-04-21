@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Visual WebPart Feature" Id="c49ffdb7-23f6-4517-8b1f-8d0fe5029d1a" Scope="Site" Title="SharePointExt.WebPartTest Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart1\Elements.xml" />
+    <ElementFile Location="VisualWebPart1\VisualWebPart1.webpart" />
+  </ElementManifests>
+</Feature>

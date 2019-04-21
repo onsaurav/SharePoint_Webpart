@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="36b40f7d-41a8-4428-a61f-fb6659f2359e" solutionId="36b40f7d-41a8-4428-a61f-fb6659f2359e" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="SharePointExt.WebPartTest">
+    <features>
+        <featureReference itemId="c49ffdb7-23f6-4517-8b1f-8d0fe5029d1a" />
+    </features>
+</package>
